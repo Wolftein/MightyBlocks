@@ -1,0 +1,8 @@
+# IntelliJ Clion folder
+
+*.idea
+
+# Binary files
+
+lib/
+bin/
